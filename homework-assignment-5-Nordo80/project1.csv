@@ -1,0 +1,54 @@
+hostname lets_change
+Default domain is lab.devnetsandbox.local
+Last configuration change at 10:58:34 UTC Fri Apr 9 2021 by developer
+"uptime is 1 day, 4 hours, 39 minutes"
+Device has 3 interfaces
+2 interfaces are enabled
+"GigabitEthernet1 10.10.20.48 MAC, address is 0050.56bf.78ac (bia 0050.56bf.78ac)"
+"GigabitEthernet2 10.10.30.2 MAC, address is 0050.56bf.4ea3 (bia 0050.56bf.4ea3)"
+"GigabitEthernet3 10.10.40.2 MAC, address is 0050.56bf.7db4 (bia 0050.56bf.7db4)"
+['SSH Enabled - version 2.0']
+2 vty 1 10.10.20.28
+3 vty 2 10.10.20.28
+2 SSH sessions are currently open
+"Rcvd:  129637 total, 128142 local destination"
+"Sent:  125322 generated, 225 forwarded"
+
+hostname iosxr1
+Default domain is abc.inc
+Last configuration change at Sat Apr 10 09:41:24 2021 by admin
+uptime is 22 hours 28 minutes
+Device has 9 interfaces
+1 interfaces are enabled
+"Loopback100 1.1.1.100 MAC, address is 0050.56bb.c66e (bia 0050.56bb.c66e)"
+"Loopback200 1.1.1.200 MAC, address is 0050.56bb.4247 (bia 0050.56bb.4247)"
+"MgmtEth0/RP0/CPU0/0 10.10.20.175 MAC, address is 0050.56bb.2928 (bia 0050.56bb.2928)"
+"GigabitEthernet0/0/0/0 unassigned MAC, address is 0050.56bb.256e (bia 0050.56bb.256e)"
+"GigabitEthernet0/0/0/1 unassigned MAC, address is 0050.56bb.98b5 (bia 0050.56bb.98b5)"
+"GigabitEthernet0/0/0/2 unassigned MAC, address is 0050.56bb.bdc5 (bia 0050.56bb.bdc5)"
+"GigabitEthernet0/0/0/3 unassigned MAC, address is 0050.56bb.0cdc (bia 0050.56bb.0cdc)"
+"GigabitEthernet0/0/0/4 unassigned MAC, address is 0050.56bb.20ec (bia 0050.56bb.20ec)"
+GigabitEthernet0/0/0/5 unassigned
+GigabitEthernet0/0/0/6 unassigned
+['SSH version : Cisco-2.0']
+vty0 82.26.135.0
+vty1 10.116.144.201
+vty2 82.131.4.82
+3 SSH sessions are currently open
+"Rcvd:  93254 total, 93088 local destination"
+Sent: 114744 total
+hostname lets_change
+Default domain is lab.devnetsandbox.local
+Last configuration change at 10:58:34 UTC Fri Apr 9 2021 by developer
+"uptime is 1 day, 4 hours, 40 minutes"
+Device has 3 interfaces
+2 interfaces are enabled
+"GigabitEthernet1 10.10.20.48 MAC, address is 0050.56bf.78ac (bia 0050.56bf.78ac)"
+"GigabitEthernet2 10.10.30.2 MAC, address is 0050.56bf.4ea3 (bia 0050.56bf.4ea3)"
+"GigabitEthernet3 10.10.40.2 MAC, address is 0050.56bf.7db4 (bia 0050.56bf.7db4)"
+['SSH Enabled - version 2.0']
+1 vty 0 10.10.20.28
+2 vty 1 10.10.20.28
+2 SSH sessions are currently open
+"Rcvd:  129948 total, 128487 local destination"
+"Sent:  125642 generated, 219 forwarded"
